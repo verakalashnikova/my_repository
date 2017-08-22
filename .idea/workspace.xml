@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2253416f-abb3-47cd-83dd-6e6d7a392d78" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/searchings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sortings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files.py" afterPath="$PROJECT_DIR$/files.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/numbers.py" afterPath="$PROJECT_DIR$/numbers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/strings.py" afterPath="$PROJECT_DIR$/strings.py" />
     </list>
     <ignored path="my_repository.iws" />
@@ -29,8 +31,8 @@
       <file leaf-file-name="strings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="263" column="0" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+            <state relative-caret-position="4620">
+              <caret line="308" column="21" selection-start-line="308" selection-start-column="21" selection-end-line="308" selection-end-column="21" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -41,19 +43,11 @@
       <file leaf-file-name="files.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1591733797/__builtin__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="2768" column="18" selection-start-line="2768" selection-start-column="18" selection-end-line="2768" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="341">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +55,32 @@
       <file leaf-file-name="numbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
+            <state relative-caret-position="690">
+              <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sortings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sortings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/searchings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,17 +101,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/files.py" />
+        <option value="$PROJECT_DIR$/sortings.py" />
+        <option value="$PROJECT_DIR$/searchings.py" />
         <option value="$PROJECT_DIR$/numbers.py" />
         <option value="$PROJECT_DIR$/strings.py" />
-        <option value="$PROJECT_DIR$/files.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="724" />
+    <option name="height" value="717" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -149,8 +168,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../rfautomation" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest Strings.test_reverse_words_within_sentence">
-    <configuration default="false" name="Unittest Strings.test_count_vowels" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittest Strings.test_find_all_friends">
+    <configuration default="false" name="Unittest Strings.test_string_find_the_second_freequent_element" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -162,7 +181,7 @@
       <module name="my_repository" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
       <option name="CLASS_NAME" value="Strings" />
-      <option name="METHOD_NAME" value="test_count_vowels" />
+      <option name="METHOD_NAME" value="test_string_find_the_second_freequent_element" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -172,7 +191,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest Strings.test_polindrom_pairs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest Strings.test_reverse" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -184,7 +203,7 @@
       <module name="my_repository" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
       <option name="CLASS_NAME" value="Strings" />
-      <option name="METHOD_NAME" value="test_polindrom_pairs" />
+      <option name="METHOD_NAME" value="test_reverse" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -194,7 +213,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest Strings.test_find_the_second_largest_element" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest Strings.test_reverse_string_recursion" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -206,7 +225,7 @@
       <module name="my_repository" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
       <option name="CLASS_NAME" value="Strings" />
-      <option name="METHOD_NAME" value="test_find_the_second_largest_element" />
+      <option name="METHOD_NAME" value="test_reverse_string_recursion" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -216,7 +235,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest Strings.test_reverse_vowels_in_string" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest Numbers.test_find_values" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -226,9 +245,9 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="my_repository" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
-      <option name="CLASS_NAME" value="Strings" />
-      <option name="METHOD_NAME" value="test_reverse_vowels_in_string" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numbers.py" />
+      <option name="CLASS_NAME" value="Numbers" />
+      <option name="METHOD_NAME" value="test_find_values" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -238,7 +257,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest Strings.test_reverse_words_within_sentence" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest Strings.test_find_all_friends" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -250,7 +269,7 @@
       <module name="my_repository" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
       <option name="CLASS_NAME" value="Strings" />
-      <option name="METHOD_NAME" value="test_reverse_words_within_sentence" />
+      <option name="METHOD_NAME" value="test_find_all_friends" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -395,19 +414,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_count_vowels" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_polindrom_pairs" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_find_the_second_largest_element" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_vowels_in_string" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_words_within_sentence" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_string_find_the_second_freequent_element" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_string_recursion" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Numbers.test_find_values" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_find_all_friends" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_words_within_sentence" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_vowels_in_string" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_find_the_second_largest_element" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_polindrom_pairs" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_count_vowels" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_find_all_friends" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Numbers.test_find_values" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse_string_recursion" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_reverse" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest Strings.test_string_find_the_second_freequent_element" />
       </list>
     </recent_temporary>
   </component>
@@ -428,59 +447,59 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 24m 09s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.08 at 17h 54m 40s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 24m 38s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.08 at 17h 56m 37s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 27m 17s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.08 at 17h 59m 34s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 27m 29s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 08h 58m 44s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 37m 37s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 09h 16m 48s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 38m 01s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 17h 26m 51s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 40m 28s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 17h 37m 06s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 44m 21s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 17h 42m 01s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 45m 24s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 17h 48m 05s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Strings_test_reverse_words_within_sentence - 2017.07.17 at 17h 46m 04s.xml">
-      <configuration name="Unittest Strings.test_reverse_words_within_sentence" configurationId="tests" />
+    <history-entry file="Unittest_Strings_test_find_all_friends - 2017.08.09 at 17h 56m 15s.xml">
+      <configuration name="Unittest Strings.test_find_all_friends" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1280" height="724" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="717" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19789983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17474186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="93" y="123" width="1080" height="524" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48101267" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26265824" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29113925" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="93" y="123" width="1080" height="524" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38607594" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48045602" sideWeight="0.49676898" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -499,25 +518,93 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/strings.py</url>
-          <line>230</line>
+          <line>231</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/strings.py</url>
-          <line>254</line>
+          <line>255</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/strings.py</url>
-          <line>255</line>
+          <line>256</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/files.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/files.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/numbers.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/numbers.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="9" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="263" column="12" selection-start-line="263" selection-start-column="12" selection-end-line="263" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -539,7 +626,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="3075" column="8" selection-start-line="3075" selection-start-column="8" selection-end-line="3075" selection-end-column="8" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1591733797/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="412" column="7" selection-start-line="412" selection-start-column="7" selection-end-line="412" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -553,34 +646,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/strings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="263" column="0" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+        <state relative-caret-position="4620">
+          <caret line="308" column="21" selection-start-line="308" selection-start-column="21" selection-end-line="308" selection-end-column="21" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1591733797/__builtin__.py">
+    <entry file="file://$PROJECT_DIR$/files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="2768" column="18" selection-start-line="2768" selection-start-column="18" selection-end-line="2768" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="341">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="690">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/files.py">
+    <entry file="file://$PROJECT_DIR$/sortings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searchings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
